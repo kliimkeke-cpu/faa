@@ -5,7 +5,7 @@ count = 0
 while True:
     print("\n===== Конвертер =====")
     print("1. Км -> М")
-    print("2. М -> Км")
+ццц
     print("3. Кг -> Г")
     print("4. Г -> Кг")
     print("5. C -> F")
